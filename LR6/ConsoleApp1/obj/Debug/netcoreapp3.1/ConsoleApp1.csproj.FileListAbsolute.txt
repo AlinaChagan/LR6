@@ -1,0 +1,13 @@
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\ALINA\Term3\ООП\лабораторные\лаба6\LR6\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
